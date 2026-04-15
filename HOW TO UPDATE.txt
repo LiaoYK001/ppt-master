@@ -1,1 +1,1 @@
-C:\Users\czl1\Desktop\Project\ppt-master\.venv\Scripts\python.exe skills/ppt-master/scripts/update_repo.py
+.venv\Scripts\python.exe skills/ppt-master/scripts/update_repo.py
